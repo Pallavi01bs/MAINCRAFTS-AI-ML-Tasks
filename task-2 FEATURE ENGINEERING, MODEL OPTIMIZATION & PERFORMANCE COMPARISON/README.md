@@ -111,6 +111,7 @@ Feature-Engineering-Model-Optimization/
 ├── Feature Engineering_Model Optimization.ipynb
 ├── README.md
 ├── report.pdf
-├── Figure3_Actual_vs_Predicted.png
-├── Figure4_Model_Output.png
-└── requirements.txt
+
+# Author
+
+Pallavi B S
